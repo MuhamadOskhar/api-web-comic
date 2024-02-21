@@ -8,7 +8,7 @@ As the project owner, I've opted to kick off our development journey on GitHub w
 
 -   [Proof Of Concept Flow](./documentation/poc.md)
 -   [Domain Structure](./documentation/domain-structure.md)
--   [Use Case Analisys](./documentation/UsecaseWebComic-Manga.pdf)
+-   [Use Case Analisys](./documentation/Manga_Web_Usecase.pdf)
 
 Baca juga materi bahasa Indonesia
 
