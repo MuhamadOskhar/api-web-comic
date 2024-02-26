@@ -21,19 +21,11 @@ return [
     */
 
     'scaffold_folders' => [
-        '/Actions',
-        '/Events',
-        '/Listeners',
-        '/Exceptions',
         '/Http/Controllers',
         '/Http/Middleware',
-        '/Http/Requests',
-        '/Http/Resources',
         '/Models',
         '/Policies',
-        '/Observers',
         '/Data',
-        '/Jobs',
         '/Services',
     ],
 

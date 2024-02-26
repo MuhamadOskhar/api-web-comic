@@ -6,7 +6,8 @@ These improvements and additions are based on general best practices and can be 
 
 -   [PHP](https://www.php.net/downloads) v8.2.14
 -   [Laravel](https://laravel.com/docs/10.x) v10.45.0
--   [laravel-domain-driven-design](https://ddd.thejano.com/guide/) v1.0.0
+-   [thejano/laravel-domain-driven-design](https://ddd.thejano.com/guide/) v1.0.0
+-   [spatie/laravel-data](https://spatie.be/docs/laravel-data/v4/introduction) v4.1.0
 
 ### Architecture
 
